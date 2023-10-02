@@ -1,0 +1,5 @@
+@import "@eco/stratos-runtime/src/styles/stratos-import.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
